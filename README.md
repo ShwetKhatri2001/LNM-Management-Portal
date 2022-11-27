@@ -3,8 +3,7 @@
 # College Management System in Python Django
 
 
-
-A fully functional project based on School Management System which uses Python with Django Web Framework. Following Django project contains all the important features which can be in use for the first year, second year, third year students for their college projects. It has a number of important features that will allow the users to manage the college’s records. This system as well as the web application’s concept is all clear, it’s the same as real-life scenarios and well-implemented on it. 
+A fully functional project based on College Management System which uses Python with Django Web Framework. Following Django project contains all the important features which can be in use for the first year, second year, third year students for their college projects. It has a number of important features that will allow the users to manage the college’s records. This system as well as the web application’s concept is all clear, it’s the same as real-life scenarios and well-implemented on it. 
 
 
 
