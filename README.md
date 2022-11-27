@@ -25,10 +25,13 @@ A fully functional project based on College Management System which uses Python 
    
  ## Install the Requirements:
  
-    source venv/bin/activate
+    virtualenv myenv
+    myenv\Scripts\activate
+
     pip install -r requirements.txt.
     python manage.py makemigrations
     python manage.py migrate
+
     python manage.py runserver  
     
     
@@ -48,16 +51,14 @@ A fully functional project based on College Management System which uses Python 
  
  
  
- ![alt text](https://raw.githubusercontent.com/robin113x/collegeManagementSystem/main/finalimages/1.png)
+  
+ 
+ ![Login Screen](https://user-images.githubusercontent.com/56475750/204140312-7ac890c3-8105-4d83-a90b-5d1ffd88e501.png)
 
  
  
  
-  ![alt text](https://raw.githubusercontent.com/robin113x/collegeManagementSystem/main/finalimages/2.png)
-
-
-
- ![alt text](https://raw.githubusercontent.com/robin113x/collegeManagementSystem/main/finalimages/3.png)
+  ![Dashboard](https://user-images.githubusercontent.com/56475750/204140459-d874dc32-8ae9-4a7c-bb47-7d7c998d98d3.png)
  
  
  
